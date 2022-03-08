@@ -1,4 +1,4 @@
-# import_google_classroom
+# Import Google Classroom
 Import a Google Classroom from Google Takeout JSON
 
 This Google App Script allows you to import a Classroom from an old Google Wokspace into a new one. The script needs a Google Spreadsheet with some params like is showed in the image.
@@ -22,3 +22,5 @@ IMPORTANT: Maybe some works or materials could appear empty and not get any erro
 8. Copy and paste the code from the file "main.js". Give a name to your script and save it.
 9. Now you can see a new menu option called Classroom and inside and option called Importa Classroom, click it to start the process.
 10. That's all. I hope this can help you :-))
+
+![image](https://github.com/miguel-cons/import_google_classroom/blob/main/Importar%20Classroom.png)
